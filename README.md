@@ -1,6 +1,10 @@
-# EXNO2DS
-K.SRISARAN KARTHIK
-24007192
+# EX No:2 
+
+# BY:
+
+**K.SRISARAN KARTHIK**
+
+**24007192**
 
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
@@ -27,9 +31,12 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
        import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt import seaborn as sns
-df=pd.read csv("titanic dataset.csv") df
+       
+       import numpy as np
+       
+       import matplotlib.pyplot as plt import seaborn as sns
+       
+       df=pd.read csv("titanic dataset.csv") df
 ![image](https://github.com/user-attachments/assets/25882a1d-4c40-4ecb-bb24-67bbf3b84cc2)
 ![image](https://github.com/user-attachments/assets/f91bc5d4-aa7c-44d6-8bc3-3b231b9a0652)      
 ![image](https://github.com/user-attachments/assets/a194d5d5-d20b-412d-9a17-3ec6524f4751)
@@ -50,4 +57,4 @@ df=pd.read csv("titanic dataset.csv") df
 
 
 # RESULT
-        <<Thus the output verifies that the given data set has been applied the EDA process and methods>>
+        Thus the output verifies that the given data set has been applied the EDA process and methods
